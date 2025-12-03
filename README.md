@@ -1,4 +1,10 @@
-# php-password-gen-dictionary-attack-safe-hydra-safe-tested
+# php-password-gen-dictionary-attack-safe-hydra-safe-tested-tested-also-for-to-be-victim-of-hashcat-and-output-was-buffer-overflow-so-it-breaks-the-hardware-when-trying-to-crack-me-with-hashcat
+
+1. Dictionary attack proof.
+2. Hashcat proof -tested on my own linux terminal and hashcat application to set the setup to correlate for given input. Output was buffer overflow so owned hashcat with this.
+3. Rainbow tables are old method simon says, is it really that how? So there is more that 20TB needed space to even think of trying to start that kind of method to crack my passwordgenerator output.
+
+
 Password generator with password and md5 output.
 similar like on web engines store.
 
